@@ -24,7 +24,7 @@
 24: Bifurcated Strike
 25: Trifurcated Strike
 26: Frozen Away
-27: Sinkhole'
+27: Sinkhole
 28: Bone Digger
 29: Trinket Bearer
 30: Steel Trap
@@ -33,7 +33,7 @@
 33: Omni Strike
 34: Leader
 35: Brittle
-36: Unknown blue square in act 3 (figure out later)
+36: Unknown blue square
 37: Green Mox
 38: Orange Mox
 39: Blue Mox
