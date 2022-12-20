@@ -1,0 +1,7 @@
+first copy of a card has the base name, second appends #1, third #2, etc.
+e.g. if I have three shield bots: Shieldbot, Shieldbot#1, Shieldbot#2
+
+cards with dialog have _Talking at the end of their name e.g. BlueMage_Talking
+
+Ouroboros_Part3 = act 3 Ouroboros
+!MYCOCARD_BASE = secret myocardial (fungus guys) boss card
