@@ -1,0 +1,35 @@
+
+# TODO: all id examples I can find are 4 digits, all types 2 digits, are these the only valid forms?
+"$id": int, generated automatically by the game, don't worry about making a duplicate, the game will replace it
+"$type": int, generated automatically by the game, don't worry about making a duplicate, the game will replace it
+
+# TODO: do these apply to non-card structures?
+"$rlength": int, notes the size of $rcontent
+"$rcontent": array/list, contains all card attributes in a nested fashion, except $id, $type, and $rlength
+
+"abilities": dict, section that appears below card picture and holds modifiers
+
+# TODO: can adjustment values be neative? what are the affects?
+"bloodCostAdjustment": int, increase or decrease amount of blood required to play, modifies the base card's value
+"bonesCostAdjustment": int, increase or decrease amount of bones required to play, modifies the base card's value
+"energyCostAdjustment": int, increase or decrease amount of energy cells required to play, modifies the base card's value
+"attackAdjustment": int, increase or decrease card attack power, modifies the base card's value
+"healthAdjustment": int, increase or decrease card defense power, modifies the base card's value
+"gemify"
+
+"sideDeckAbilities": dict, applies abilities to side deck cards (like squirrels in act 1)
+"items": dict, useable items that sit on the table
+"bountyHunterMods": dict, defines bounty hunter cards (act 3)
+"pelts": int, number of pelts (act 3)
+"ouroborosDeaths": int, defines Ouroboros base power and health for the whole game
+"currency": int, the appropriate currency amount for the current act
+
+# TODO: figure these out
+"transformerBeastCardId"
+"sideDeckMod"
+"nullifyGemsCost"
+"specialAbilities"
+"negateAbilities"
+"bloodstainCurrency"
+"bounty"
+"battlesSinceBountyHunter"
